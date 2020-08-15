@@ -1,0 +1,23 @@
+name: d9
+recipe: drupal9
+config:
+  webroot: web
+
+services:
+  # This is the service that contains your application's code.
+  appserver:
+    build:
+      # Run "composer install" automatically during build.
+      - composer install
+
+events:
+  post-rebuild:
+    - appserver: /app/scripts/install.sh
+
+  post-destroy:
+    - rm -rfv web
+    - rm -rfv vendor
+
+  pre-rebuild:
+    - rm -rfv web
+    - rm -rfv vendor
