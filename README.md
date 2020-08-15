@@ -27,4 +27,4 @@ Here are some vitals:
                  https://d9.lndo.site/      
                  
 ```
-All set! Access `http://d9.lndo.site/user/reset/1/1597523314/3YE-PwU9bDesKaRQoHkCjgtLbd5iM2wIB4g8GSUKd90/login` URL and change your password.
+All set! Access the site using any of the APPSERVER URL say `http://d9.lndo.site/` or you may change your first time login password. In my case, it's  `http://d9.lndo.site/user/reset/1/1597523314/3YE-PwU9bDesKaRQoHkCjgtLbd5iM2wIB4g8GSUKd90/login`.
