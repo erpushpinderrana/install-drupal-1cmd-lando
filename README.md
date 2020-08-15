@@ -38,3 +38,12 @@ Here are some vitals:
 Access the site using any of the APPSERVER URLS say `http://d9.lndo.site/` or you may change your first time login password.
 In my case, it's  `http://d9.lndo.site/user/reset/1/1597523314/3YE-PwU9bDesKaRQoHkCjgtLbd5iM2wIB4g8GSUKd90/login`.
 ![D9 Browser Access](https://github.com/erpushpinderrana/files/blob/master/d9lando.png)
+
+# Important Lando Commands
+* `lando info` List information about the app.
+* `lando destory` To destory the app.
+* `lando rebuild` To rebuild the app.
+
+# Useful Links
+* https://docs.lando.dev/config/drupal9.html
+* https://docs.lando.dev/config/lando.html
