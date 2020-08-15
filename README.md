@@ -27,4 +27,4 @@ Here are some vitals:
                  https://d8.lndo.site/      
                  
 ```
-All set! Access the site using any of the APPSERVER URL say `http://d8.lndo.site/` or you may change your first time login password using   `http://d8.lndo.site/user/reset/1/1597524568/YT3p2pw6EVr0COpxlgy0r0FghwM4oMA-Ld7YbYfCU2I/login` URL.
+All set! Access the site using any of the APPSERVER URL say `http://d8.lndo.site/` or you may change your first time login password using one time reset password link. In my case it's `http://d8.lndo.site/user/reset/1/1597524568/YT3p2pw6EVr0COpxlgy0r0FghwM4oMA-Ld7YbYfCU2I/login`.
