@@ -10,11 +10,14 @@ Install [Lando](https://docs.lando.dev/basics/installation.html)
 
 # Quick Setup
 
-## Clone this repository and run the below command when you are in the `install-drupal-1cmd-lando` directory.
+## Clone this repository.
+
+Run the below command when you are in the `install-drupal-1cmd-lando` directory.
 ```
 lando rebuild -y
 ```
-## It will output something like below:
+
+It will output something like below:
 ![D9 Installation is complete](https://github.com/erpushpinderrana/files/blob/master/d9Webserver.png)
 ```
 [success] Installation complete.  User name: admin  User password: zMigDZjuSi
