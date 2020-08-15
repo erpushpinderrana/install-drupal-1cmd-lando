@@ -35,6 +35,6 @@ Here are some vitals:
                  
 ```
 ## Congratulations, You are all set!
-Access the site using any of the APPSERVER URL say `http://d9.lndo.site/` or you may change your first time login password.
+Access the site using any of the APPSERVER URLS say `http://d9.lndo.site/` or you may change your first time login password.
 In my case, it's  `http://d9.lndo.site/user/reset/1/1597523314/3YE-PwU9bDesKaRQoHkCjgtLbd5iM2wIB4g8GSUKd90/login`.
 ![D9 Browser Access](https://github.com/erpushpinderrana/files/blob/master/d9lando.png)
