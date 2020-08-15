@@ -2,7 +2,7 @@
 Install Drupal 9 with one command using Lando. You don't need to set up a web server or database separately.
 
 # Problem Statement
-The idea was to quickly set up the Drupal environment with one click. When I say quickly it means it should be pretty simple, just by typing one command only.
+The idea was to quickly set up the Drupal environment with one click. When I say one click it means it should be pretty simple, just by typing one command only.
 
 # Prerequisites
 
