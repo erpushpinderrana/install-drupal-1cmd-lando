@@ -10,6 +10,20 @@ services:
       # Run "composer install" automatically during build.
       - composer install
 
+  # PhpMyAdmin
+  pma:
+    type: phpmyadmin
+    hosts:
+      - database
+      - drupal8
+
+  # Drupal 8 database
+  drupal8:
+    type: mysql
+    creds:
+      user: drupal8
+      password: drupal8
+      database: drupal8     
 events:
   post-rebuild:
     - appserver: /app/scripts/install.sh
